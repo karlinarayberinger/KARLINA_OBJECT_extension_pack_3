@@ -1,3 +1,11 @@
+/**
+ * file: M_DISCs_burn_list_winter_2023.txt
+ * type: plain-text
+ * date: 26_OCTOBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
 //-------------------------------------------------
 // karbytes-created GitHub repository # 1 of 5
 //-------------------------------------------------
