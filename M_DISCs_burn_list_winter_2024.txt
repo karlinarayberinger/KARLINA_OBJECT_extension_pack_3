@@ -4,7 +4,17 @@ repository_1: https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pac
 
 repository_2: https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG /**(public) 1.34 MB */
 
-repository_3: https://github.com/karlinarayberinger/karbytes_basement_1/ /**(private) 62.9 MB */
+//-------------------------------------------------
+// karbytes-created GitHub repository # 3 of 5
+//-------------------------------------------------
+
+repository_2.uniform_resource_locator := "https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG/". 
+
+repository_2.access_level := "public". // instead of private
+
+repository_2.data_size := 1.34. // megabytes (MB)
+
+repository_2.description := "This repository contains web page source code and media files which constitute (some of) the intellectual property encapsulated by the website named Karbytes For Life Blog dot WordPress dot Com.".
 
 //-------------------------------------------------
 // karbytes-created GitHub repository # 4 of 5
@@ -22,7 +32,7 @@ repository_3.description := 'This repository contains misculaneous files which a
 // karbytes-created GitHub repository # 5 of 5
 //-------------------------------------------------
 
-repository_4.uniform_resource_locator := "https://github.com/karlinarayberinger/SOUND_TRACK_LOOPER_private".
+repository_4.uniform_resource_locator := "https://github.com/karlinarayberinger/SOUND_TRACK_LOOPER_private/".
 
 repository_4.access_level := "private". // instead of public
 
