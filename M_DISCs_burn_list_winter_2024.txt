@@ -7,14 +7,26 @@ repository_2: https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG /**(p
 repository_3: https://github.com/karlinarayberinger/karbytes_basement_1/ /**(private) 62.9 MB */
 
 //-------------------------------------------------
+// karbytes-created GitHub repository # 4 of 5
+//-------------------------------------------------
+
+repository_3.uniform_resource_locator := "https://github.com/karlinarayberinger/karbytes_basement_1/". 
+
+repository_3.access_level := "private". // instead of public
+
+repository_3.data_size := 62.9. // megabytes (MB)
+
+repository_3.description := 'This repository contains misculaneous files which are stored "on the cloud" for karbytes personal use.'.
+
+//-------------------------------------------------
 // karbytes-created GitHub repository # 5 of 5
 //-------------------------------------------------
 
-repository_4.uniform_resource_locator := "https://github.com/karlinarayberinger/SOUND_TRACK_LOOPER_private". /**(private) 53 MB */
+repository_4.uniform_resource_locator := "https://github.com/karlinarayberinger/SOUND_TRACK_LOOPER_private".
 
 repository_4.access_level := "private". // instead of public
 
 repository_4.data_size := 53. // megabytes (MB)
 
-repository_4.description := "This private repository contains all the files needed to instantiate the SOUND_TRACK_LOOPER web page application with sound effects karbytes finds to be effective for mitigating karbytes' misophonia."
+repository_4.description := "This private repository contains all the files needed to instantiate the SOUND_TRACK_LOOPER web page application with sound effects karbytes finds to be effective for mitigating karbytes' misophonia.".
 
