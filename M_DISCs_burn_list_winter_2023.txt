@@ -10,13 +10,13 @@
 // karbytes-created GitHub repository # 1 of 5
 //-------------------------------------------------
 
-repository_1.uniform_resource_locator := "https://github.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/". 
+repository_0.uniform_resource_locator := "https://github.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/". 
 
-repository_1.access_level := "public". // instead of private
+repository_0.access_level := "public". // instead of private
 
-repository_1.data_size := 116. // megabytes (MB)
+repository_0.data_size := 116. // megabytes (MB)
 
-repository_1.description := "This repository contains web page source code and media files which supplement the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com.".
+repository_0.description := "This repository contains web page source code and media files which supplement the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com.".
 
 //-------------------------------------------------
 // karbytes-created GitHub repository # 2 of 5
