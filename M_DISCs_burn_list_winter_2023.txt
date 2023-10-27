@@ -6,6 +6,8 @@
  * license: PUBLIC_DOMAIN 
  */
 
+karbytes_win2023.data := [repository_0, repository_1, repository_2, repository_3, repository_4]. // to burn onto each one of the three M_DISCs which karbytes plans to acquire after 01_NOVEMBER_2023 and before 01_JANUARY_2024
+
 //-------------------------------------------------
 // karbytes-created GitHub repository # 1 of 5
 //-------------------------------------------------
