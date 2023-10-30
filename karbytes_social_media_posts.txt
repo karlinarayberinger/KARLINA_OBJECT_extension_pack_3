@@ -9,3 +9,7 @@
 On 29_OCTOBER_2023 at approximately 7:00PM Pacific Standard Time, karbytes shared the following article as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
 
 https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/
+
+* * *
+
+Note that copy-pasting the uniform resource locator (URL) of a web page as plain-text into the web page source code editor for a WordPress dot Com web page and then saving that web page causes that URL to be rendered on the respective WordPress dot Com web page as a preview into the content which is displayed on the web page located at that URL. Hence, in order to not cause extraneous content displayed where the URL to some web page is displayed on this web page, that URL has been encapsulated inside of a web link hyper-text markup language (HTML) element tag. (In the original plain-text file from which the content in the scrollable "preformatted text" box on this web page has been copied, the aforementioned URL is not encapsulated inside of any HTML tag).
