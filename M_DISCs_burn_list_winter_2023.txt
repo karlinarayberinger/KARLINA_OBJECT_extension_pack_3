@@ -28,7 +28,7 @@ repository_1.uniform_resource_locator := "https://github.com/karlinarayberinger/
 
 repository_1.access_level := "public". // instead of private
 
-repository_1.data_size := 52.2. // megabytes (MB)
+repository_1.data_size := 75.9. // megabytes (MB)
 
 repository_1.description := "This repository contains web page source code and media files which supplement the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com.".
 
@@ -64,7 +64,7 @@ repository_4.uniform_resource_locator := "https://github.com/karlinarayberinger/
 
 repository_4.access_level := "private". // instead of public
 
-repository_4.data_size := 54.1. // megabytes (MB)
+repository_4.data_size := 94.9. // megabytes (MB)
 
 repository_4.description := "This private repository contains all the files needed to instantiate the SOUND_TRACK_LOOPER web page application with sound effects karbytes finds to be effective for mitigating karbytes' misophonia.".
 
