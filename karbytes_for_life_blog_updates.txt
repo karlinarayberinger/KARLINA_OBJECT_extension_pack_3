@@ -1,7 +1,7 @@
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
-  * date: 29_OCTOBER_2023 
+  * date: 31_OCTOBER_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
