@@ -24,11 +24,11 @@ repository_0.description := "This repository contains web page source code and m
 // karbytes-created GitHub repository # 2 of 5
 //-------------------------------------------------
 
-repository_1.uniform_resource_locator := "https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG/". 
+repository_1.uniform_resource_locator := "https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/". 
 
 repository_1.access_level := "public". // instead of private
 
-repository_1.data_size := 78. // megabytes (MB)
+repository_1.data_size := 52.2. // megabytes (MB)
 
 repository_1.description := "This repository contains web page source code and media files which supplement the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com.".
 
