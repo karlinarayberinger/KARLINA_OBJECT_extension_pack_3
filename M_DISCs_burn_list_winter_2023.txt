@@ -52,7 +52,7 @@ repository_3.uniform_resource_locator := "https://github.com/karlinarayberinger/
 
 repository_3.access_level := "private". // instead of public
 
-repository_3.data_size := 62.9. // megabytes (MB)
+repository_3.data_size := 88.1. // megabytes (MB)
 
 repository_3.description := 'This repository contains misculaneous files which are stored "on the cloud" for karbytes personal use.'.
 
