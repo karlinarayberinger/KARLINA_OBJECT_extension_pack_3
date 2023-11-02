@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 29_OCTOBER_2023
+ * date: 01_NOVEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -13,3 +13,13 @@ https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically
 * * *
 
 Note that copy-pasting the uniform resource locator (URL) of a web page as plain-text into the web page source code editor for a WordPress dot Com web page and then saving that web page causes that URL to be rendered on the respective WordPress dot Com web page as a preview into the content which is displayed on the web page located at that URL. Hence, in order to not cause extraneous content displayed where the URL to some web page is displayed on this web page, that URL has been encapsulated inside of a web link hyper-text markup language (HTML) element tag. (In the original plain-text file from which the content in the scrollable "preformatted text" box on this web page has been copied, the aforementioned URL is not encapsulated inside of any HTML tag).
+
+* * *
+
+On 01_NOVEMBER_2023 at approximately 7:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, karbytes' LinkedIn dot Com page, and karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/about_karbytes/
+
+On 01_NOVEMBER_2023 at approximately 7:30PM Pacific Standard Time, karbytes replaced the post which was pinned to the top of karbytes' Twitter dot Com page and karbytes' Minds dot Com page with the web page whose uniform resource locator (URL) is displayed in the paragraph directly above this paragraph (and the formerly pinned post was the web page whose URL is displayed in the paragraph directly below this paragraph:
+
+https://karlinaobject.wordpress.com/
