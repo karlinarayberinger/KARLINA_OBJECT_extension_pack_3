@@ -1,0 +1,22 @@
+/**
+ * file: karbytes_01_november_2023.txt
+ * type: plain-text
+ * date: 01_NOVEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+Today karbytes created a new web page on its secondary website named ABOUT_KARBYTES.
+
+(Note that karbytes' secondary website is located at the following uniform resource locator: https://karbytesforlifeblog.wordpress.com/).
+
+(Note that karbytes' primary website is located at the following uniform resource locator: https://karlinaobject.wordpress.com/).
+
+(The uniform resource locator of the aforementioned web page named ABOUT_KARBYTES is as follows: https://karbytesforlifeblog.wordpress.com/about_karbytes/).
+
+Today karbytes updated the home page of its primary website by turning the word "karbytes" in the INTRODUCTION body paragraph to a hyperlink leading to the aforementioned web page named ABOUT_KARBYTES.
+
+Within the next 24 hours karbytes intends to have the following Portable Document Format file printed according to the specifications stated on the first page of that document: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/about_karbytes_winter_2023_abridged.pdf
+
+After that document is printed, karbytes intends to put the pages of that print-out into transparent page protector sleeves in chronological order and then placing those pages inside of one of the two binders which is mentioned in the following web page of karbytes' secondary website: https://karbytesforlifeblog.wordpress.com/KARLINA_OBJECT_winter_2023_starter_pack_physical_artifacts_inventory/
+
