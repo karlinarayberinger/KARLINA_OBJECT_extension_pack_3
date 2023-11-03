@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 01_NOVEMBER_2023
+ * date: 02_NOVEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -23,3 +23,15 @@ https://karbytesforlifeblog.wordpress.com/about_karbytes/
 On 01_NOVEMBER_2023 at approximately 7:30PM Pacific Standard Time, karbytes replaced the post which was pinned to the top of karbytes' Twitter dot Com page and karbytes' Minds dot Com page with the web page whose uniform resource locator (URL) is displayed in the paragraph directly above this paragraph (and the formerly pinned post was the web page whose URL is displayed in the paragraph directly below this paragraph:
 
 https://karlinaobject.wordpress.com/
+
+* * *
+
+On 02_NOVEMBER_2023 at approximately 11:30PM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
+
+video_link: https://youtu.be/czjisEGe5Cw?si=u3wRASe5ABPdISOR
+
+video_title: The Problem With Science Communication
+
+video_source: Veritasium
+
+video_date: 31_OCTOBER_2023
