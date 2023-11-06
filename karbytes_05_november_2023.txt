@@ -18,6 +18,6 @@ P1: "For every ambition, there is a counter-ambition."
 
 P1: "Yes I do mean to imply that there is always someone else there (i.e. someone other than yourself)."
 
-Q1: "By someone else, do you mean some other person and not just some inanimate force of nature?"
+Q1: "By someone else, do you mean some person (other than myself) and not just some inanimate force of nature?"
 
 P1: "Person. Not force of nature. Some information processing agent with goals and intelligence and preferences and awareness that you exist in its reality."
