@@ -24,4 +24,4 @@ P1: "Person. Not force of nature. Some information processing agent with goals a
 
 * * *
 
-karbytes: "If there is insufficient demand for X to continue existing, then X ceases to exist. Existence requires a continuous input of energy (especially in the form of cognitive resources)."
+karbytes: "If there is insufficient demand for X to continue existing, then X ceases to exist. Existence requires a continuous input of energy (especially in the form of cognitive resources invested by some information processing agent, Y, towards keeping X instantiated (as a (virtual(?)) object) in Y's memory)."
