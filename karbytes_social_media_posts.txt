@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 03_NOVEMBER_2023
+ * date: 05_NOVEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -16,7 +16,7 @@ Note that copy-pasting the uniform resource locator (URL) of a web page as plain
 
 * * *
 
-On 01_NOVEMBER_2023 at approximately 7:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, karbytes' LinkedIn dot Com page, and karbytes' Patreon dot Com page:
+On 01_NOVEMBER_2023 at approximately 7:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/about_karbytes/
 
@@ -39,3 +39,9 @@ video_date: 31_OCTOBER_2023
 * * *
 
 On 03_NOVEMBER_2023 at approximately 10:30AM, karbytes removed the video named instagram_karbytes_02_november_2023_part_0.mp4 from karbytes' Instagram dot Com page. Note that the video file is still available in the GitHub repository which contains this plain-text file.
+
+* * *
+
+On 05_NOVEMBER_2023 at at approximately 7:00PM, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05_november_2023/
