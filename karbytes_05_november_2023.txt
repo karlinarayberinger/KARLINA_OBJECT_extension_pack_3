@@ -1,0 +1,13 @@
+/**
+ * file: karbytes_05_november_2023.txt
+ * type: plain-text
+ * date: 05_NOVEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+P: "Wah! You thought unflattering things about me! Shame on you! I'm gonna hurt you for what you did: made me feel bad with your thoughts."
+
+Q: "What am I supposed to do; false flattery?"
+
+P: "No! Don't lie to me! Just don't think badly of me. Think good of me. That's all I ask."
