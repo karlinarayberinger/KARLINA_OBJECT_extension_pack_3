@@ -24,4 +24,6 @@ P1: "Person. Not force of nature. Some information processing agent with goals a
 
 * * *
 
-karbytes: "If there is insufficient demand for X to continue existing, then X ceases to exist. Existence requires a continuous input of energy (especially in the form of cognitive resources invested by some information processing agent, Y, towards keeping X instantiated (as a (virtual(?)) object) in Y's memory)."
+karbytes_0: "If there is insufficient demand for X to continue existing, then X ceases to exist. Existence requires a continuous input of energy (especially in the form of cognitive resources invested by some information processing agent, Y, towards keeping X instantiated (as a (virtual(?)) object) in Y's memory)."
+
+karbytes_1: "I mean to imply that all physical objects are just as virtual as all virtual objects are. To be precise, all empirical data which manifests as qualia in some information processing agent's subject experience is comprised of the same essential (i.e. irreducible) substance. Hence, a virtual reality software simulation being run on some physical hardware computer is not necessarily dependent on the laws of physics which govern the physical hardware computer's encompassing universe. Instead, the virtual and the physical could (at least hypothetically) exist as parallel casually independent universes. To extrapolate further, it is hypothetically possible for any law of physics to be violated at any time because all phenomena are at least hypothetically conjured up by the same ubiquitous irreducible substrate."
