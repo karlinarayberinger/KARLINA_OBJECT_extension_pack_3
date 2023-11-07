@@ -1,3 +1,11 @@
+/**
+ * file: karbytes_07_november_2023.txt
+ * type: plain-text
+ * date: 07_NOVEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
 In order for one person to have nice things, some other person has to be deprived of those nice things.
 
 * * *
