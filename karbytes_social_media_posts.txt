@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 06_NOVEMBER_2023
+ * date: 07_NOVEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -42,18 +42,24 @@ On 03_NOVEMBER_2023 at approximately 10:30AM, karbytes removed the video named i
 
 * * *
 
-On 05_NOVEMBER_2023 at at approximately 7:00PM, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
+On 05_NOVEMBER_2023 at approximately 7:00PM, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05_november_2023/
 
 * * *
 
-On 05_NOVEMBER_2023 at at approximately 9:00PM, karbytes shared the following karbytes-created video as a social media post on karbytes' Instagram dot Com page:
+On 05_NOVEMBER_2023 at approximately 9:00PM, karbytes shared the following karbytes-created video as a social media post on karbytes' Instagram dot Com page:
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/instagram_karbytes_05_november_2023_part_0.mp4
 
 * * *
 
-On 06_NOVEMBER_2023 at at approximately 5:00PM, karbytes shared a sequence of plain-text characters first in the form of a social media post on karbytes' Twitter dot Com page then as a social media post on karbytes' Minds dot Com page (and those social media posts are depicted by the screenshot image and hyperlink-embedded copy of the aforementioned sequence of plain-text characters in the following karbytes-created web page):
+On 06_NOVEMBER_2023 at approximately 5:00PM, karbytes shared a sequence of plain-text characters first in the form of a social media post on karbytes' Twitter dot Com page then as a social media post on karbytes' Minds dot Com page (and those social media posts are depicted by the screenshot image and hyperlink-embedded copy of the aforementioned sequence of plain-text characters in the following karbytes-created web page):
 
 https://karbytesforlifeblog.wordpress.com/tweet_embedded_in_minds_post_embedded_in_web_page_06_november_2023/
+
+* * *
+
+On 07_NOVEMBER_2023 at approximately 1:30AM, karbytes removed the Twitter dot Com post and the Minds dot Com post which was mentioned in the previous section of this note and replaced it with the social media post depicted by the following screenshot image (and the karbytes-created web page whose hyperlink is displayed in the previous section of this note has also been appended to include that screenshot related web page content):
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_07_november_2023_part_0.png
