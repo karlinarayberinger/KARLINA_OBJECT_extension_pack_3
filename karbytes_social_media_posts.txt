@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 05_NOVEMBER_2023
+ * date: 06_NOVEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -51,3 +51,9 @@ https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05_november_2023/
 On 05_NOVEMBER_2023 at at approximately 9:00PM, karbytes shared the following karbytes-created video as a social media post on karbytes' Instagram dot Com page:
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/instagram_karbytes_05_november_2023_part_0.mp4
+
+* * *
+
+On 06_NOVEMBER_2023 at at approximately 5:00PM, karbytes shared a sequence of plain-text characters first in the form of a social media post on karbytes' Twitter dot Com page then as a social media post on karbytes' Minds dot Com page (and those social media posts are depicted by the screenshot image and hyperlink-embedded copy of the aforementioned sequence of plain-text characters in the following karbytes-created web page):
+
+https://karbytesforlifeblog.wordpress.com/tweet_embedded_in_minds_post_embedded_in_web_page_06_november_2023/
