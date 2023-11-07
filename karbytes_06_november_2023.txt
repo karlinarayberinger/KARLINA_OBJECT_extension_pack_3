@@ -1,4 +1,10 @@
-
+/**
+ * file: karbytes_05_november_2023.txt
+ * type: plain-text
+ * date: 05_NOVEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
 Q: "Is Chelsea Manning a man or a woman?"
 
 P: "A man."
