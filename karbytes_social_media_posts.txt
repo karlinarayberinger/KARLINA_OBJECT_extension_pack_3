@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 08_NOVEMBER_2023
+ * date: 09_NOVEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -63,3 +63,9 @@ https://karbytesforlifeblog.wordpress.com/tweet_embedded_in_minds_post_embedded_
 On 08_NOVEMBER_2023 at approximately 10:30PM, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/karbytes_08_november_2023/
+
+* * *
+
+On 09_NOVEMBER_2023 at approximately 7:30PM, karbytes shared a sequence of plain-text characters first in the form of a social media post on karbytes' Twitter dot Com page then as a social media post on karbytes' Minds dot Com page (and those social media posts are depicted by the screenshot image and hyperlink-embedded copy of the aforementioned sequence of plain-text characters in the following karbytes-created web page):
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_09_november_2023_part_0.png
