@@ -69,3 +69,23 @@ https://karbytesforlifeblog.wordpress.com/karbytes_08_november_2023/
 On 09_NOVEMBER_2023 at approximately 7:30PM, karbytes shared a sequence of plain-text characters first in the form of a social media post on karbytes' Twitter dot Com page then as a social media post on karbytes' Minds dot Com page (and those social media posts are depicted by the screenshot image and hyperlink-embedded copy of the aforementioned sequence of plain-text characters in the following karbytes-created web page):
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_09_november_2023_part_0.png
+
+* * *
+
+On 09_NOVEMBER_2023 at approximately 11:30PM Pacific Standard Time, karbytes shared the following two videos as social media posts on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
+
+video_0_link: https://www.youtube.com/watch?v=JN3KPFbWCy8
+
+video_0_title: Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400
+
+video_0_source: Lex Fridman
+
+video_0_date: 09_NOVEMBER_2023
+
+video_1_link: https://www.youtube.com/watch?v=RLckW5-0Qg0
+
+video_1_title: Physicist Michio Kaku on Quantum Computing 
+
+video_1_source: Chicago Humanities Festival
+
+video_1_date: 17_JULY_2023
