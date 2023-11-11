@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 09_NOVEMBER_2023
+ * date: 10_NOVEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -89,3 +89,15 @@ video_1_title: Physicist Michio Kaku on Quantum Computing
 video_1_source: Chicago Humanities Festival
 
 video_1_date: 17_JULY_2023
+
+* * *
+
+On 10_NOVEMBER_2023 at approximately 11:30PM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
+
+video_link: https://youtu.be/eozWYioLcgc?si=ujMTsWs5rxt38QM6
+
+video_title: Fay Dowker: Wormholes, Quantum Gravity, and Causal Set Theory | Robinson's Podcast #156 
+
+video_source: Robinson Erhardt
+
+video_date: 20_NOVEMBER_2023
