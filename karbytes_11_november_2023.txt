@@ -1,3 +1,5 @@
+
+
 /**
  * file: karbytes_11_november_2023.txt
  * type: plain-text
@@ -22,4 +24,4 @@ In the picture named amazon_training_dates_and_seasonal_job_information_10_novem
 
 I have recently (within the past two days) started to think of all jobs which I apply for and do as "seasonal" instead of "permanent" because doing so makes me feel less married and more single and, as a consequence, makes me also feel less depressed and more optimistic and happy about my future because I (presumably) have the freedom to travel to different parts of the world as a contract employee instead of a long-term committed to one department for "too many years" consecutively.
 
-Ultimately I expect the generations of humans after mine (i.e. the Millennials) to transform the socioeconomic landscape to exude more modern and humane sensibilities such as issuing every person a minimum basic income, automating most if not all jobs which are dangerous for humans and not as cost effective if deploying humans instead of robots. I expect fossil fuels to be completely phased out before the end of my lifespan (though I am hoping to also live long enough to be granted access to technologies and living conditions which enable me to extend my lifespan and faculties for a period of time which approaches infinity in terms of temporal length).
+Ultimately I expect the generations of humans after mine (i.e. the Millennials) to transform the socioeconomic landscape to exude more modern and humane sensibilities such as issuing every person a minimum basic income, automating most if not all jobs which are dangerous for humans and not as cost effective if deploying humans instead of robots, and generally be more educated and hence more tolerant of people who are different from them. I expect fossil fuels to be completely phased out before the end of my lifespan (though I am hoping to also live long enough to be granted access to technologies and living conditions which enable me to extend my lifespan and faculties for a period of time which approaches infinity in terms of temporal length).
