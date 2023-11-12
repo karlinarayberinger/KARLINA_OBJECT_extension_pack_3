@@ -1,7 +1,7 @@
 /**
  * file: M_DISCs_burn_list_winter_2023.txt
  * type: plain-text
- * date: 10_NOVEMBER_2023
+ * date: 12_NOVEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -28,7 +28,7 @@ repository_1.uniform_resource_locator := "https://github.com/karlinarayberinger/
 
 repository_1.access_level := "public". // instead of private
 
-repository_1.data_size := 211. // megabytes (MB)
+repository_1.data_size := 217. // megabytes (MB)
 
 repository_1.description := "This repository contains web page source code and media files which supplement the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com.".
 
