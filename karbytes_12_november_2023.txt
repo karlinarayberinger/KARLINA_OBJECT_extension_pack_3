@@ -1,5 +1,12 @@
-t
-necessary_logical_data : finite :: necessary_empirical_data :: infinite. // in order to conclusively prove whether or not a particular ontological statement is true.
+/**
+ * file: karbytes_12_november_2023.txt
+ * type: plain-text
+ * date: 12_NOVEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+sufficient_logical_data : finite :: sufficient_empirical_data :: infinite. // in order to conclusively prove whether or not a particular ontological statement is true.
 
 * * *
 
@@ -22,3 +29,7 @@ karbytes claims to be non omniscient.
 karbytes also claims that the target audience of its blogs is "future and parallel karbytes".
 
 karbytes claims that "future karbytes" and "parallel karbytes" are all parallel universe versions of the karbytes writing (and perhaps reading) this note NOW.
+
+* * *
+
+"I have an infinitely long lifespan starting from the moment I was born" (as declared by karbytes) is impossible for karbytes to prove either conclusively true or else conclusively false. (The statement describes a logically binary set of conditions to which there are zero alternatives).
