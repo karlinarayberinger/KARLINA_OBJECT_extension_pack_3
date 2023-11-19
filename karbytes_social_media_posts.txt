@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 18_NOVEMBER_2023
+ * date: 19_NOVEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -128,7 +128,7 @@ https://karbytesforlifeblog.wordpress.com/karbytes_12_november_2023/
 
 * * *
 
-On 18_NOVEMBER_2023 at approximately 6:30PM Pacific Standard Time, karbytes removed the following social media posts from karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
+On 18_NOVEMBER_2023 at approximately 6:30PM Pacific Standard Time, karbytes deleted the following social media posts on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/karbytes_11_november_2023/
 
@@ -137,5 +137,11 @@ https://karbytesforlifeblog.wordpress.com/karbytes_12_november_2023/
 * * *
 
 On 18_NOVEMBER_2023 at approximately 7:00PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_18_november_2023/
+
+* * *
+
+On 19_NOVEMBER_2023 at approximately 12:30AM Pacific Standard Time, karbytes deleted the following social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/karbytes_18_november_2023/
