@@ -1,5 +1,11 @@
+<hr />
+<p><strong>karbytes_social_media_posts_koep3</strong></p>
+<hr />
+<p><em>To view hidden text inside the preformatted text box below, scroll horizontally.</em></p>
+<hr>
+<pre>
 /**
- * file: karbytes_social_media_posts.txt
+ * file: <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/karbytes_social_media_posts.txt" target="_blank" rel="noopener">karbytes_social_media_posts.txt</a>
  * type: plain-text
  * date: 19_NOVEMBER_2023
  * author: karbytes
@@ -8,7 +14,7 @@
 
 On 29_OCTOBER_2023 at approximately 7:00PM Pacific Standard Time, karbytes shared the following article as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
 
-https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/
+<a style="background: #ff9000;color: #000000" href="https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/" target="_blank" rel="noopener">https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/</a>
 
 * * *
 
@@ -18,81 +24,81 @@ Note that copy-pasting the uniform resource locator (URL) of a web page as plain
 
 On 01_NOVEMBER_2023 at approximately 7:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
-https://karbytesforlifeblog.wordpress.com/about_karbytes/ 
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/about_karbytes/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/about_karbytes/</a> 
 
 On 01_NOVEMBER_2023 at approximately 7:30PM Pacific Standard Time, karbytes replaced the post which was pinned to the top of karbytes' Twitter dot Com page and karbytes' Minds dot Com page with the web page whose uniform resource locator (URL) is displayed in the paragraph directly above this paragraph (and the formerly pinned post was the web page whose URL is displayed in the paragraph directly below this paragraph:
 
-https://karlinaobject.wordpress.com/
+<a style="background: #000000;color: #00ff00" href="https://karlinaobject.wordpress.com/" target="_blank" rel="noopener">https://karlinaobject.wordpress.com/</a>
 
 * * *
 
 On 02_NOVEMBER_2023 at approximately 11:30PM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
 
-video_link: https://youtu.be/czjisEGe5Cw?si=u3wRASe5ABPdISOR
+video_link: <a style="background: #ff9000;color: #000000" href="https://youtu.be/czjisEGe5Cw?si=u3wRASe5ABPdISOR" target="_blank" rel="noopener">https://youtu.be/czjisEGe5Cw?si=u3wRASe5ABPdISOR</a>
 
 video_title: The Problem With Science Communication
 
-video_source: Veritasium
+video_source: <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Derek_Muller" target="_blank" rel="noopener">Veritasium</a>
 
 video_date: 31_OCTOBER_2023
 
 * * *
 
-On 03_NOVEMBER_2023 at approximately 10:30AM, karbytes removed the video named instagram_karbytes_02_november_2023_part_0.mp4 from karbytes' Instagram dot Com page. Note that the video file is still available in the GitHub repository which contains this plain-text file.
+On 03_NOVEMBER_2023 at approximately 10:30AM, karbytes removed the video named <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/instagram_karbytes_02_november_2023_part_0.mp4" target="_blank" rel="noopener">instagram_karbytes_02_november_2023_part_0.mp4</a> from karbytes' Instagram dot Com page. Note that the video file is still available in the GitHub repository which contains this plain-text file.
 
 * * *
 
 On 05_NOVEMBER_2023 at approximately 7:00PM, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
-https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05_november_2023/
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05_november_2023/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05_november_2023/</a>
 
 * * *
 
 On 05_NOVEMBER_2023 at approximately 9:00PM, karbytes shared the following karbytes-created video as a social media post on karbytes' Instagram dot Com page:
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/instagram_karbytes_05_november_2023_part_0.mp4
+<a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/instagram_karbytes_05_november_2023_part_0.mp4" target="_blank" rel="noopener">https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/instagram_karbytes_05_november_2023_part_0.mp4</a>
 
 * * *
 
 On 06_NOVEMBER_2023 at approximately 5:00PM, karbytes shared a sequence of plain-text characters first in the form of a social media post on karbytes' Twitter dot Com page then as a social media post on karbytes' Minds dot Com page (and those social media posts are depicted by the screenshot image and hyperlink-embedded copy of the aforementioned sequence of plain-text characters in the following karbytes-created web page):
 
-https://karbytesforlifeblog.wordpress.com/tweet_embedded_in_minds_post_embedded_in_web_page_06_november_2023/
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/tweet_embedded_in_minds_post_embedded_in_web_page_06_november_2023/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/tweet_embedded_in_minds_post_embedded_in_web_page_06_november_2023/</a>
 
 * * *
 
 On 07_NOVEMBER_2023 at approximately 1:30AM, karbytes removed the Twitter dot Com post and the Minds dot Com post which was mentioned in the previous section of this note and replaced it with the social media post depicted by the following screenshot image (and the karbytes-created web page whose hyperlink is displayed in the previous section of this note has also been appended to include that screenshot related web page content):
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_07_november_2023_part_0.png
+<a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_07_november_2023_part_0.png" target="_blank" rel="noopener">https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_07_november_2023_part_0.png</a>
 
 * * *
 
 On 08_NOVEMBER_2023 at approximately 10:30PM, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
-https://karbytesforlifeblog.wordpress.com/karbytes_08_november_2023/
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05_november_2023/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/karbytes_08_november_2023/</a>
 
 * * *
 
 On 09_NOVEMBER_2023 at approximately 7:30PM, karbytes shared a sequence of plain-text characters first in the form of a social media post on karbytes' Twitter dot Com page then as a social media post on karbytes' Minds dot Com page (and those social media posts are depicted by the following screenshot image):
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_09_november_2023_part_0.png
+<a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_09_november_2023_part_0.png" target="_blank" rel="noopener">https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_09_november_2023_part_0.png</a>
 
 * * *
 
 On 09_NOVEMBER_2023 at approximately 11:30PM Pacific Standard Time, karbytes shared the following two videos as social media posts on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
 
-video_0_link: https://www.youtube.com/watch?v=JN3KPFbWCy8
+video_0_link: <a style="background: #ff9000;color: #000000" href="https://www.youtube.com/watch?v=JN3KPFbWCy8" target="_blank" rel="noopener">https://www.youtube.com/watch?v=JN3KPFbWCy8</a>
 
 video_0_title: Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400
 
-video_0_source: Lex Fridman
+video_0_source: <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Lex_Fridman" target="_blank" rel="noopener">Lex Fridman</a>
 
 video_0_date: 09_NOVEMBER_2023
 
-video_1_link: https://www.youtube.com/watch?v=RLckW5-0Qg0
+video_1_link: <a style="background: #ff9000;color: #000000" href="https://www.youtube.com/watch?v=RLckW5-0Qg0" target="_blank" rel="noopener">https://www.youtube.com/watch?v=RLckW5-0Qg0</a>
 
-video_1_title: Physicist Michio Kaku on Quantum Computing 
+video_1_title: Physicist <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Michio_Kaku" target="_blank" rel="noopener">Michio Kaku</a> on Quantum Computing 
 
-video_1_source: Chicago Humanities Festival
+video_1_source: <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Chicago_Humanities_Festival" target="_blank" rel="noopener">Chicago Humanities Festival</a>
 
 video_1_date: 17_JULY_2023
 
@@ -100,11 +106,11 @@ video_1_date: 17_JULY_2023
 
 On 10_NOVEMBER_2023 at approximately 11:30PM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
 
-video_link: https://youtu.be/eozWYioLcgc?si=ujMTsWs5rxt38QM6
+video_link: <a style="background: #ff9000;color: #000000" href="https://youtu.be/eozWYioLcgc?si=ujMTsWs5rxt38QM6" target="_blank" rel="noopener">https://youtu.be/eozWYioLcgc?si=ujMTsWs5rxt38QM6</a>
 
-video_title: Fay Dowker: Wormholes, Quantum Gravity, and Causal Set Theory | Robinson's Podcast #156 
+video_title: <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Fay_Dowker" target="_blank" rel="noopener">Fay Dowker</a>: Wormholes, Quantum Gravity, and Causal Set Theory | Robinson's Podcast #156 
 
-video_source: Robinson Erhardt
+video_source: <a style="background: #ff9000;color: #000000" href="https://twitter.com/robinsonerhardt?lang=en" target="_blank" rel="noopener">Robinson Erhardt</a>
 
 video_date: 20_NOVEMBER_2023
 
@@ -112,42 +118,46 @@ video_date: 20_NOVEMBER_2023
 
 On 11_NOVEMBER_2023 at approximately 5:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
-https://karbytesforlifeblog.wordpress.com/karbytes_11_november_2023/
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/karbytes_11_november_2023/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/karbytes_11_november_2023/</a>
 
 * * *
 
 On 11_NOVEMBER_2023 at approximately 11:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
-https://karbytesforlifeblog.wordpress.com/best_practices_for_using_the_web/
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/best_practices_for_using_the_web/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/best_practices_for_using_the_web/</a>
 
 * * *
 
 On 12_NOVEMBER_2023 at approximately 6:00PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
-https://karbytesforlifeblog.wordpress.com/karbytes_12_november_2023/
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/karbytes_12_november_2023/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/karbytes_12_november_2023/</a>
 
 * * *
 
 On 18_NOVEMBER_2023 at approximately 6:30PM Pacific Standard Time, karbytes deleted the following social media posts on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
-https://karbytesforlifeblog.wordpress.com/karbytes_11_november_2023/
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/karbytes_11_november_2023/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/karbytes_11_november_2023/</a>
 
-https://karbytesforlifeblog.wordpress.com/karbytes_12_november_2023/
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/karbytes_12_november_2023/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/karbytes_12_november_2023/</a>
 
 * * *
 
 On 18_NOVEMBER_2023 at approximately 7:00PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
-https://karbytesforlifeblog.wordpress.com/karbytes_18_november_2023/
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/karbytes_18_november_2023/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/karbytes_18_november_2023/</a>
 
 * * *
 
 On 19_NOVEMBER_2023 at approximately 12:30AM Pacific Standard Time, karbytes deleted the following social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
-https://karbytesforlifeblog.wordpress.com/karbytes_18_november_2023/
+<a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/karbytes_18_november_2023/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/karbytes_18_november_2023/</a>
 
 * * *
 
 On 09_NOVEMBER_2023 at approximately 7:30PM, karbytes shared a sequence of plain-text characters first in the form of a social media post on karbytes' Twitter dot Com page then as a social media post on karbytes' Minds dot Com page (and those social media posts are depicted by the following screenshot image):
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_19_november_2023_part_0.png
+<a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_19_november_2023_part_0.png" target="_blank" rel="noopener">https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/minds_karbytes_19_november_2023_part_0.png</a>
+</pre>
+<hr />
+<p>This web page was last updated on 19_NOVEMBER_2023. The content displayed on this web page is licensed as <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/public_domain/" target="_blank" rel="noopener">PUBLIC_DOMAIN</a> intellectual property.</p>
+<hr>
