@@ -1,0 +1,9 @@
+/**
+ * file: karbytes_21_november_2023.txt
+ * type: plain-text
+ * date: 21_NOVEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+Perhaps the most valued characteristics of a human individual is that individual's legal disability status, monetary income level, and demonstrated education level.
