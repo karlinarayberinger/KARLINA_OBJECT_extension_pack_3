@@ -6,6 +6,7 @@
  * license: PUBLIC_DOMAIN 
  */
 
-Perhaps the most valued characteristics of a human individual is the unique way that particular human individual generates a sense that its own life is (intrinsically) worthwhile according to that particular person and, also, the unique way that particular person contributes to human civilization's ongoing survival and evolution (which is extrinsic value generation (or lack thereof) according to that particular person) within the context of an ecosystem and an economy which encompasses and sustains (with varying degrees of effectiveness) each human individual which are currently alive.
+Perhaps the most valued characteristics of a human individual is the unique way that particular human individual generates a sense that its own life is (intrinsically) worthwhile according to that particular person and, also, the unique way that particular person contributes to human civilization's ongoing survival and evolution (which is extrinsic value generation (or lack thereof (or negation of))) according to that particular person) within the context of an ecosystem and an economy which encompasses and sustains (with varying degrees of effectiveness) each human individual which is currently alive.
 
 (This note is intended to be a sequel to yesterday's note: karbytes_22_november_2023).
+
