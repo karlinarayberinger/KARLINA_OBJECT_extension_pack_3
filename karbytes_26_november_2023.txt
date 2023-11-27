@@ -16,6 +16,6 @@ I decided to leave those two files unchanged because the total collection of PDF
 
 I do not want to spend more time, money, and other physical resource costs on re-printing the specific aforementioned PDF document.
 
-According to an Internet search I did using the search query term "PDF", I got a definitoin of the input term as follows: 
+According to an Internet search I did using the search query term "PDF", I got a definition of the input term as follows: 
 
 'PDF stands for "portable document format". Essentially, the format is used when you need to save files that cannot be modified but still need to be easily shared and printed.'
