@@ -1,3 +1,11 @@
+/** 
+  * file: karbytes_26_november_2023.txt
+  * type: plain-text 
+  * date: 26_NOVEMBER_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN
+  */
+
 I am getting ready to burn the Winter 2023 M_DISCs soon. (For more details about that, see the web page named KARLINA_OBJECT_winter_2023_starter_pack_physical_artifacts_inventory of the website named Karbytes For Life Blog dot WordPress dot Com). 
 
 Today I went to an Office Depot store to print out the file named karlina_object_dot_wordpress_dot_com_home_page_winter_2023.pdf.
@@ -10,4 +18,4 @@ I do not want to spend more time, money, and other physical resource costs on re
 
 According to an Internet search I did using the search query term "PDF", I got a definitoin of the input term as follows: 
 
-"PDF stands for "portable document format". Essentially, the format is used when you need to save files that cannot be modified but still need to be easily shared and printed."
+'PDF stands for "portable document format". Essentially, the format is used when you need to save files that cannot be modified but still need to be easily shared and printed.'
