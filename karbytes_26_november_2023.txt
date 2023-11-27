@@ -5,3 +5,5 @@ Today I went to an Office Depot store to print out the file named karlina_object
 Approximately five hours later, I realized that I made a semantics error in that document and that document's respective ".txt" file.
 
 I decided to leave those two files unchanged because the total collection of PDF and plain-text files I have which collectively represent a complete compact plain-text "copy" of the website named Karlina Object dot WorPress dot Com.
+
+I do not want to spend more time, money, and other physical resource costs on re-printing the specific aforementioned PDF document.
